@@ -1,0 +1,50 @@
+
+Welcome to Catan!
+
+Please enter the names of 3 players:
+Player 1: Player 2: Player 3: 
+Each player has received the initial resource cards: 4 Lumber, 4 Bricks, 2 Wool, and 2 Grain.
+Before the game begins, each player shall build two roads and two settlements using these cards.
+
+The starting player is: p1!
+p1, your road has been placed on edge 13.
+p1, your road has been placed on edge 41.
+Settlement created!
+p1, your settlement has been placed on vertex 10.
+Settlement created!
+p1, your settlement has been placed on vertex 29.
+p2, your road has been placed on edge 56.
+p2, your road has been placed on edge 52.
+Settlement created!
+p2, your settlement has been placed on vertex 40.
+Settlement created!
+p2, your settlement has been placed on vertex 44.
+p3, your road has been placed on edge 15.
+p3, your road has been placed on edge 58.
+Settlement created!
+p3, your settlement has been placed on vertex 13.
+Settlement created!
+p3, your settlement has been placed on vertex 42.
+
+Initial placements are completed.
+
+Let the game begin!
+
+p1, it's your turn.
+
+Choose action: 
+1. Roll Dice
+2. Build
+3. Trade
+4. Buy Development Card
+5. Show status
+6. End Turn
+7. End the Game
+Select the resource you want to give: (1: Lumber, 2: Brick, 3: Wool, 4: Grain, 5: Ore): Enter the amount you want to give: Select the resource you want to get (1: Lumber, 2: Brick, 3: Wool, 4: Grain, 5: Ore): Enter the amount you want to get: Select a player to trade with or reject the trade:
+1. p1
+2. p2
+3. p3
+4. Reject trade
+
+Trade completed successfully!
+EOF reached. Exiting the game.
